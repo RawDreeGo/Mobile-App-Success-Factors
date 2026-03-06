@@ -16,6 +16,10 @@ Pricing vs. Quality: I investigated the correlation between app pricing models a
 
 Engagement Indicators: I discovered that applications with a higher number of reviews tend to consolidate more stable ratings, suggesting that user engagement is the primary engine of success in the store.
 
+## Visual Analysis
+![Rating Distribution](assets/rating_dist.png)
+*Figure 1: Rating distribution across various app categories.*
+
 ## Technologies Used
 - Python, Pandas, Matplotlib, Seaborn.
 
